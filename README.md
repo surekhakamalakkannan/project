@@ -1,3 +1,3 @@
 ## project
 
-<a href="file:///C:/Users/NEW/Downloads/charstar/index.html">link</a>
+<a href="www.index.html">link</a>
